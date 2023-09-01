@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select</title>
+</head>
+<body>
+    <form action=""></form>
+
+    <h1>Tarefa</h1>
+
+    <section>
+        <div>
+            <label for="nome">Nome:</label>
+            <input type="text" id="nome" placeholder="Digite seu Nome:" required>
+        </div>
+
+        <p>Quem descobriu o Brasil?</p>
+
+        <div>
+            <input type="checkbox" id="opcao1" name="descobrimento">
+            <label for="opcao1">Pedro Álvares Cabral</label>
+        </div>
+            <input type="checkbox" id="opcao2" name="descobrimento">
+            <label for="opcao2">Cristovão Colombo</label>
+        <div>
+
+        <div>
+            <input type="checkbox" id="opcao3" name="descobrimento">
+            <label for="opcao3">Dom Pedro I</label>
+        </div>
+
+        <div>
+            <input type="checkbox" id="opcao4" name="descobrimento">
+            <label for="opcao4">Jair Messias Bolsonaro</label>
+        </div>
+    </section>
+
+    <section>
+
+        <p></p>
+
+        <div>
+            <input type="checkbox" id="opcao1" name="descobrimento">
+            <label for="opcao1">Pedro Álvares Cabral</label>
+        </div>
+            <input type="checkbox" id="opcao2" name="descobrimento">
+            <label for="opcao2">Cristovão Colombo</label>
+        <div>
+
+        <div>
+            <input type="" id="opcao3" name="descobrimento">
+            <label for="opcao3">Dom Pedro I</label>
+        </div>
+
+        <div>
+            <input type="checkbox" id="opcao4" name="descobrimento">
+            <label for="opcao4">Jair Messias Bolsonaro</label>
+        </div>
+    </section>
+
+    
+</body>
+</html>
